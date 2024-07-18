@@ -1,0 +1,5 @@
+patch_rank,protein_id,residue_id,chain,residue_type,patch_size
+0,minus1,50,A,D,255.82458415027514
+0,minus1,49,A,E,255.82458415027514
+1,minus1,7,A,E,249.79179052558345
+1,minus1,3,A,D,249.79179052558345

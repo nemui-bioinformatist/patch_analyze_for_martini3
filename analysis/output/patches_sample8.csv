@@ -1,0 +1,6 @@
+patch_rank,protein_id,residue_id,chain,residue_type,patch_size
+0,sample8,41,A,K,508.8619590873328
+0,sample8,39,A,R,508.8619590873328
+0,sample8,42,A,R,508.8619590873328
+1,sample8,26,A,K,231.3951219512195
+2,sample8,42,A,R,180.08870967741936
